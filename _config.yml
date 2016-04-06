@@ -1,0 +1,28 @@
+name: Finger Lakes Coaching
+favicon: null
+layout_spectrum: 0.6340097961947322
+typography_spectrum: 0.1587985383812338
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.3062901545781642
+  lightness: 0.4464895515702665
+  saturation: 0.25256369379349053
+  rhythmicContrast: 0.8423215618822724
+purpose: []
