@@ -11,8 +11,8 @@ description: >
   all who come here. It is a region filled with inspirational people, places and
   things. Come and grow with us. As a region we have our limitations, but it is
   in the strengths of Finger Lakes that our love of life grows.
-datePublished: '2016-04-06T22:20:33.895Z'
-dateModified: '2016-04-06T22:20:19.888Z'
+datePublished: '2016-04-06T22:21:55.334Z'
+dateModified: '2016-04-06T22:21:42.748Z'
 title: ''
 author: []
 authors: []
