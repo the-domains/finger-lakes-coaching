@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Finger Lakes Coaching]]></title>
         <description><![CDATA[Finger Lakes Coaching]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/finger-lakes-coaching/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 22:21:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Apr 2016 22:21:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/finger-lakes-coaching/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ddeb77a-2a53-488c-9062-6fa59ccd024e.jpg">]]></description>
-            <link>undefinedthe-finger-lakes-region-is-a-blessing-in-this-world-the-ice/index.html</link>
+            <link>https://thegrid.ai/finger-lakes-coaching/the-finger-lakes-region-is-a-blessing-in-this-world-the-ice/index.html</link>
             <guid isPermaLink="false">be4a727b-466c-4156-9251-df804fee8370</guid>
-            <pubDate>Wed, 06 Apr 2016 22:20:33 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2016 22:21:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
