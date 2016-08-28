@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-27T14:19:47.769Z'
+datePublished: '2016-08-27T14:21:01.957Z'
 sourcePath: _posts/2016-04-06-i-am-larry-earl-wraight-i-was-blessed-with-30-years-of-lo.md
 inFeed: false
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-27T14:19:47.315Z'
+dateModified: '2016-08-27T14:21:01.240Z'
 title: ''
 publisher: {}
 description: >-
