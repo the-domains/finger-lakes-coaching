@@ -3,7 +3,6 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
 description: >
   The Finger Lakes region is a blessing in this world. The Ice age carved our
@@ -11,18 +10,16 @@ description: >
   all who come here. It is a region filled with inspirational people, places and
   things. Come and grow with us. As a region we have our limitations, but it is
   in the strengths of Finger Lakes that our love of life grows.
-datePublished: '2016-04-06T22:21:55.334Z'
-dateModified: '2016-04-06T22:21:42.748Z'
+datePublished: '2016-08-27T14:15:39.412Z'
+dateModified: '2016-08-27T14:12:08.285Z'
 title: ''
 author: []
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-sourcePath: _posts/2016-04-06-the-finger-lakes-region-is-a-blessing-in-this-world-the-ice.md
-published: true
+publisher: {}
+sourcePath: >-
+  _posts/2016-04-06-the-finger-lakes-region-is-a-blessing-in-this-world-the-ice.md
+via: {}
+starred: true
 url: the-finger-lakes-region-is-a-blessing-in-this-world-the-ice/index.html
 _type: Article
 
@@ -36,3 +33,9 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ddeb77a-2a53-488c-9062-6fa59ccd024e.jpg)
 
 The Finger Lakes region is a blessing in this world. The Ice age carved our region into a repository of fresh water that sustains, beautifies and inspires all who come here. It is a region filled with inspirational people, places and things. Come and grow with us. As a region we have our limitations, but it is in the strengths of Finger Lakes that our love of life grows.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6aec532-6f66-41bc-b9e8-5f2caec348d1.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/336fa361-2bfe-44ac-9ca3-dc2d3b340792.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a2b49b2-cc2d-4746-8d57-e736f5883d15.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2bc429cc-bf09-4871-a47e-519a4ebf4b46.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/37b1f61d-17a0-4d84-a180-3d2f171647a8.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d504a6a-65d2-4463-a069-947145cc9380.jpg)
