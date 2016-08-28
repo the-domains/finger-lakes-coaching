@@ -30,8 +30,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://affaircare.com/articles/infidelity-and-post-traumatic-stress-disorder/'
 title: Infidelity and Post Traumatic Stress Disorder
-datePublished: '2016-08-27T14:02:38.620Z'
-dateModified: '2016-04-23T15:54:00.261Z'
+datePublished: '2016-08-27T14:02:38.743Z'
+dateModified: '2016-04-23T15:53:15.103Z'
 starred: false
 sourcePath: _posts/2016-08-27-infidelity-and-post-traumatic-stress-disorder.md
 inFeed: true
